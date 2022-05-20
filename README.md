@@ -1,4 +1,4 @@
-## Olá! eu meu nome e Júnior Matos 👋
+## Olá! Meu nome e Júnior Matos 👋
 
 <div>
     <a href="[coderfaster.com.br](https://coderfaster.com.br/)">
