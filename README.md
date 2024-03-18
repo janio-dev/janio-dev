@@ -23,3 +23,9 @@
     <img width="40" height="30" src="https://skillicons.dev/icons?i=figma" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=ai" />
 </div>
+
+<p>um apaixonado por resolver problemas através da programação. Com 4 anos de experiência, tenho trabalhado
+em diversas áreas, desde desenvolvimento web até análise de dados. Minha jornada no mundo da tecnologia me 
+proporcionou habilidades em linguagens como Python, JavaScript e SQL, além de familiaridade com frameworks como 
+Django e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir
+para projetos inovadores. Vamos construir algo incrível juntos!</p>
