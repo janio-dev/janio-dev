@@ -11,6 +11,7 @@
     <img width="40" height="30" src="https://skillicons.dev/icons?i=css" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=js" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nodejs" />
+    <img width="40" height="30" src="https://skillicons.dev/icons?i=dart" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nest" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=react" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=ts" />
