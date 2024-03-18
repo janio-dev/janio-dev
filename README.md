@@ -20,4 +20,5 @@
     <img width="40" height="30" src="https://skillicons.dev/icons?i=materialui" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=ps" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=figma" />
+    <img width="40" height="30" src="https://skillicons.dev/icons?i=ai" />
 </div>
