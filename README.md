@@ -11,6 +11,7 @@
     <img width="40" height="30" src="https://skillicons.dev/icons?i=css" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=js" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nodejs" />
+     <img width="40" height="30" src="https://skillicons.dev/icons?i=lua" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=dart" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nest" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=react" />
@@ -29,5 +30,5 @@
 <p>um apaixonado por resolver problemas através da programação. Com 4 anos de experiência, tenho trabalhado</br>
 em diversas áreas, desde desenvolvimento web até análise de dados. Minha jornada no mundo da tecnologia me </br>
 proporcionou habilidades em linguagens como Python, JavaScript e SQL, além de familiaridade com frameworks como </br>
-Django e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
+Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
