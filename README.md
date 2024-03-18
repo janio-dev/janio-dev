@@ -16,7 +16,7 @@
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=tailwind" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=mysql" />
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="40" height="30" src="https://skillicons.dev/icons?i=bootstrap" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=materialui" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=ps" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=figma" />
