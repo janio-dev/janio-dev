@@ -12,7 +12,7 @@
     <img width="40" height="30" src="https://skillicons.dev/icons?i=js" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nodejs" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=nest" />
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="40" height="30" src="https://skillicons.dev/icons?i=react" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=ts" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=tailwind" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=mysql" />
