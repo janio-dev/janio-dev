@@ -27,7 +27,7 @@
 
 </br>
 
-<p>um apaixonado por resolver problemas através da programação. Com 4 anos de experiência, tenho trabalhado</br>
+<p>um apaixonado por resolver problemas através da programação. Com 4.5 anos de experiência, tenho trabalhado</br>
 em diversas áreas, desde desenvolvimento web até análise de dados. Minha jornada no mundo da tecnologia me </br>
 proporcionou habilidades em linguagens como Lua, JavaScript e SQL, além de familiaridade com frameworks como </br>
 Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
