@@ -1,4 +1,6 @@
 ## Olá! Meu nome é Jânio Matos 👋
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
     
 <div style="display: inline-block;"><br>
     <img width="40" height="30" src="https://skillicons.dev/icons?i=spring" />
