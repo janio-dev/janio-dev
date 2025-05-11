@@ -29,6 +29,6 @@ em diversas áreas, desde desenvolvimento web até análise de dados. Minha jorn
 proporcionou habilidades em linguagens como Java, Lua, JavaScript e SQL, além de familiaridade com frameworks como Spring boot, </br>
 Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
-</div>
 
 ![Snake animation](https://github.com/janio-dev/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
