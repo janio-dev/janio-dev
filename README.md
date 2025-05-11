@@ -1,6 +1,4 @@
 ## Olá! Meu nome é Jânio Matos 👋
-
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
     
 <div style="display: inline-block;"><br>
     <img width="40" height="30" src="https://skillicons.dev/icons?i=spring" />
@@ -30,3 +28,5 @@ em diversas áreas, desde desenvolvimento web até análise de dados. Minha jorn
 proporcionou habilidades em linguagens como Java, Lua, JavaScript e SQL, além de familiaridade com frameworks como Spring boot, </br>
 Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
