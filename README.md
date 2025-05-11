@@ -30,5 +30,8 @@ Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandi
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
 
 
-
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/4ebf3e79-18ba-4b88-aaf3-1d76287686d6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
