@@ -1,10 +1,4 @@
 ## Olá! Meu nome é Jânio Matos 👋
-
-<div>
-    <a href="[coderfaster.com.br](https://coderfaster.com.br/)">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JrMatosCoder&theme=dracula&show_icons=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatosCoder&layout=compact&theme=dracula"/>
-</div>
     
 <div style="display: inline-block;"><br>
     <img width="40" height="30" src="https://skillicons.dev/icons?i=spring" />
