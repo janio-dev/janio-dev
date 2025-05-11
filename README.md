@@ -7,6 +7,7 @@
 </div> -->
     
 <div style="display: inline-block;"><br>
+     <img width="40" height="30" src="https://skillicons.dev/icons?i=java" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=html" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=css" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=js" />
