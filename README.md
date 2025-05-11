@@ -30,3 +30,4 @@ Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandi
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
 
 ![Snake animation](https://github.com/janio-dev/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/janio-dev/snk/blob/output/github-contribution-grid-snake.svg)
