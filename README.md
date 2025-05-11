@@ -29,5 +29,6 @@ proporcionou habilidades em linguagens como Java, Lua, JavaScript e SQL, além d
 Nest e React. Estou sempre em busca de aprendizado e novos desafios para expandir meu conhecimento e contribuir</br>
 para projetos inovadores. Vamos construir algo incrível juntos!</p>
 
-![image](https://github.com/user-attachments/assets/85650c4c-ed2b-4dba-a228-b1e1c448a4f8)
 
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/4ebf3e79-18ba-4b88-aaf3-1d76287686d6)
