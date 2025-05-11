@@ -23,7 +23,7 @@
 
 <br/>
 
-<div>
+<div style={padding:"20px"}>
     <p>um apaixonado por resolver problemas através da programação. Com 4.5 anos de experiência, tenho trabalhado</br>
     em diversas áreas, desde desenvolvimento web até análise de dados. Minha jornada no mundo da tecnologia me </br>
     proporcionou habilidades em linguagens como Java, Lua, JavaScript e SQL, além de familiaridade com frameworks como Spring boot, </br>
