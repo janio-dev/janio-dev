@@ -1,5 +1,7 @@
 ## Olá! Meu nome é Jânio Matos 👋
-    
+
+<div align="center">
+
 <div style="display: inline-block;"><br>
     <img width="40" height="30" src="https://skillicons.dev/icons?i=spring" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=java" />
@@ -23,7 +25,6 @@
 
 <br/>
 
-<div align="center">
 <p>um apaixonado por resolver problemas através da programação. Com 4.5 anos de experiência, tenho trabalhado</br>
 em diversas áreas, desde desenvolvimento web até análise de dados. Minha jornada no mundo da tecnologia me </br>
 proporcionou habilidades em linguagens como Java, Lua, JavaScript e SQL, além de familiaridade com frameworks como Spring boot, </br>
